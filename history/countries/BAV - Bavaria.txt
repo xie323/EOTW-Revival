@@ -102,9 +102,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Erich Ludendorff"
+	name = "Heinrich Himmler"
 	desc = ""
-	picture = "Portrait_BAV_Ludendorff.dds"
+	picture = "Portrait_BAV_Himmler.dds"
 	expire = "1965.1.1"
 	ideology = militant_strasserist
 	traits = {
