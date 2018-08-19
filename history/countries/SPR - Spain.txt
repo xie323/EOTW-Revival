@@ -200,7 +200,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Mary I"
+	name = "Alfonso XIII"
 	desc = ""
 	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
 	expire = "1965.1.1"
